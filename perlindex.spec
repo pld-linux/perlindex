@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Text
-%define	pnam	perlindex
+%define		pdir	Text
+%define		pnam	perlindex
 Summary:	perlindex - a program to index and search the Perl documentation
 Summary(pl):	perlindex - program do indeksowania i przeszukiwania dokumentacji Perla
 Name:		perlindex
