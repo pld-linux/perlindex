@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	perlindex
 Summary:	perlindex - a program to index and search the Perl documentation
-Summary(pl):	perlindex - program do indeksowania i przeszukiwania dokumentacji Perla
+Summary(pl.UTF-8):   perlindex - program do indeksowania i przeszukiwania dokumentacji Perla
 Name:		perlindex
 Version:	1.502
 Release:	1
@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 perlindex - a program to index and search the Perl documentation.
 
-%description -l pl
+%description -l pl.UTF-8
 perlindex - program do indeksowania i przeszukiwania dokumentacji
 Perla.
 
