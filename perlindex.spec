@@ -12,8 +12,9 @@ Version:	1.605
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Text/%{pnam}-%{version}.tar.gz
 # Source0-md5:	cb8e17296c0369ceb4e71a684c49c14d
+URL:		http://search.cpan.org/dist/perlindex/
 BuildRequires:	perl-Term-ReadKey
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
