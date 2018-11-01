@@ -8,12 +8,12 @@
 Summary:	perlindex - a program to index and search the Perl documentation
 Summary(pl.UTF-8):	perlindex - program do indeksowania i przeszukiwania dokumentacji Perla
 Name:		perlindex
-Version:	1.605
+Version:	1.606
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Text/%{pnam}-%{version}.tar.gz
-# Source0-md5:	cb8e17296c0369ceb4e71a684c49c14d
+# Source0-md5:	a46ad625934bab8cbb1d7d20b1d5e131
 URL:		http://search.cpan.org/dist/perlindex/
 BuildRequires:	perl-Term-ReadKey
 BuildRequires:	perl-devel >= 1:5.8.0
