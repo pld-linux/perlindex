@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Text
 %define		pnam	perlindex
 Summary:	perlindex - a program to index and search the Perl documentation
